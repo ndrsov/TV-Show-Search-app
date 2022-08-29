@@ -12,3 +12,12 @@ body {
   align-items: center;
   margin: 0;
 }
+
+.img-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+}
